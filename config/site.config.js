@@ -52,8 +52,8 @@ module.exports = {
 //   // you provide. See the documentation for details.
   links: [
     {
-      name: '',
-      link: '',
+      name: 'QQ群',
+      link: 'https://jq.qq.com/?_wv=1027&k=iOkzVGbB',
     },
   ],
 
