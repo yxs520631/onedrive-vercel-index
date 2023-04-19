@@ -55,6 +55,10 @@ module.exports = {
       name: 'QQ群',
       link: 'https://jq.qq.com/?_wv=1027&k=iOkzVGbB',
     },
+     {
+      name: '主站',
+      link: 'https://galzy.eu.org/',
+    },
   ],
 
   // This is a day.js-style datetime format string to format datetimes in the app. Ref to
